@@ -1,0 +1,8 @@
+Materiales:
+-Arduino Uno
+-Protoboard
+-Sensor Ultrasonico
+-2 LEDS(verde y rojo)
+-Sensor de humedad y temperatura(DHT11)
+-Jumpers
+-2 Resistencias de 220 Ohms
